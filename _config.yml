@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         kramdown
+highlighter: null
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Fábio Sales
+tagline:          'Blog description'
+description:      ''
+url:              http://lanyon.getpoole.com
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
