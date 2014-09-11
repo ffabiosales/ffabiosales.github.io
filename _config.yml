@@ -7,13 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Fábio Sales
-tagline:          'Blog description'
+tagline:          'A Web Developer from Brasil.'
 description:      ''
-url:              http://lanyon.getpoole.com
+url:              http://localhost:4000
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Fábio Sales'
+  url:            http://fabiosales.com
 
 paginate:         5
 

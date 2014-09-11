@@ -88,7 +88,7 @@ p {
 }
 @media (min-width: 56rem) {
   .container {
-    max-width: 57rem;
+    max-width: 58rem;
   }
 }
 
@@ -100,8 +100,8 @@ p {
  */
 
 .masthead {
-  padding-top:    1rem;
-  padding-bottom: 1rem;
+  padding-top:    1.8rem;
+  padding-bottom: 1.8rem;
   margin-bottom: 1rem;
   border-bottom: 1px solid #eee;
 }
@@ -114,10 +114,10 @@ p {
   color: #505050;
 }
 .masthead-title small {
-  font-size: 75%;
+  font-size: 60%;
   font-weight: 400;
-  color: #c0c0c0;
-  letter-spacing: 0;
+  color: #696969;
+  letter-spacing: .5px;
 }
 
 @media (max-width: 48rem) {
@@ -195,6 +195,10 @@ a.sidebar-nav-item:focus {
   background-color: rgba(255,255,255,.1);
   border-color: transparent;
 }
+.sidebar .rights {
+  bottom: 0;
+  position: absolute;
+}
 
 @media (min-width: 48rem) {
   .sidebar-item {
@@ -214,8 +218,8 @@ a.sidebar-nav-item:focus {
 /* Style the `label` that we use to target the `.sidebar-checkbox` */
 .sidebar-toggle {
   position: absolute;
-  top:  1rem;
-  left: 1rem;
+  top:  1.8rem;
+  left: 1.8rem;
   display: block;
   width: 2.2rem;
   padding: .5rem .65rem;
@@ -356,6 +360,38 @@ a.sidebar-nav-item:focus {
 .related-posts li a:hover small {
   color: inherit;
 }
+
+
+/*Works*/
+.works {
+  float: left;
+  margin-bottom: 3rem;
+}
+
+.work {
+  float: left;
+  margin-right: 20px;
+}
+
+.work:last-child {
+  margin-right: 0;
+}
+
+.section-title {
+  font-size: 1.7rem;
+  margin-bottom: 1rem;
+}
+
+.works h2 {
+  color: #336E7B;
+}
+.work h2 {
+  margin-bottom: .2rem;
+}
+.work p {
+  line-height: 20px;
+}
+/*Works end*/
 
 
 /*
