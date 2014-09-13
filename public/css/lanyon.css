@@ -86,7 +86,7 @@ p {
     max-width: 32rem;
   }
 }
-@media (min-width: 56rem) {
+@media (min-width: 58rem) {
   .container {
     max-width: 58rem;
   }
