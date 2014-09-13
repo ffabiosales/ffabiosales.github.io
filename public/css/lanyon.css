@@ -90,6 +90,11 @@ p {
   .container {
     max-width: 58rem;
   }
+
+@media (min-width: 56rem) {
+.container {
+max-width: 54rem;
+}
 }
 
 
