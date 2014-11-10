@@ -9,11 +9,11 @@ permalink:        pretty
 title:            Fábio Sales
 tagline:          'A Web Developer from Brasil.'
 description:      ''
-url:              http://fabiosales.com
+url:              https://fabiosales.com
 
 author:
   name:           'Fábio Sales'
-  url:            http://fabiosales.com
+  url:            https://fabiosales.com
 
 paginate:         5
 
